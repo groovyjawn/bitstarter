@@ -1,1 +1,1 @@
-https://github.com/groovyjawn/bitstarter/commit/a5b5b1eec60ecfea235a122952a0fdc13b3ccd9d
+https://github.com/groovyjawn/bitstarter/blob/a5b5b1eec60ecfea235a122952a0fdc13b3ccd9d/index.html
