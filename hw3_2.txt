@@ -1,1 +1,1 @@
-http://github.com/groovyjawn/bitstarter, http://blooming-lake-2997.herokuapp.com
+https://github.com/groovyjawn/bitstarter/commit/a5b5b1eec60ecfea235a122952a0fdc13b3ccd9d
